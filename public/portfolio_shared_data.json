@@ -1,0 +1,74 @@
+{
+  "basic_info": {
+    "name": "Abdullah Moursi",
+    "titles": [
+      "JUNIOR FRONT-END WEB DEVELOPER"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Abdullah-Moursi",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "gmail",
+        "class": "fa fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdullah-moursi/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "VueJS",
+        "class": "devicon-vuejs-plain",
+        "level": "65"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-git-plain",
+        "level": "80"
+      }
+    ]
+  }
+}

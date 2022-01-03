@@ -1,0 +1,176 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Abdullah Moursi. A Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience in handling complex HTML, CSS, and JS (Vanilla and React), and a bit of VueJS to meet the organization's front-facing internet needs. Thank you.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Genome Analyzer",
+      "startDate": "2021",
+      "description": "Took a part at creating an app comparing DNA sequence provided by patients with the ones in the GenBank. Developed UI of Admin, Doctor, Nurse, and Patient pages using Vue.Js, Element-UI, and Bootstrap.",
+      "images": [
+        "images/portfolio/gene/g1.png",
+        "images/portfolio/gene/g2.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Bosta Clone",
+      "startDate": "2021",
+      "website": "https://bosta-abdullah-moursi.herokuapp.com/",
+      "description": "One of the most challenging projects I've worked on. Consumed the company's API to create a tracking system using React, Bootstrap, Element UI and i18next. You can try tracking with these numbers: (9442984, 1094442, 663623).",
+      "images": [
+        "images/portfolio/bosta/b1.jpg",
+        "images/portfolio/bosta/b2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Medical Pager",
+      "startDate": "2022",
+      "website": "https://medical-pager-chatting-app.netlify.app/",
+      "description": "Chatting Application with Twilio notification service built with React and NodeJs with Direct and Group Chats, emojis & Reactions, Built-in Gif support and the ability to edit & delete messages supported by GetStream.io APIs.",
+      "images": [
+        "images/portfolio/medical/m1.png",
+        "images/portfolio/medical/m2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "SARS Mutation Prediction",
+      "startDate": "2021",
+      "description": "Worked with a team of backend developers to create a model to predict the upcoming mutations of Covid-19. Consumed data from multiple REST APIs showing them in a responsive design using Axios, ReactJS, React Modal, TypeScript, Material UI, and SASS.",
+      "images": [
+        "images/portfolio/sars/s1.jpg",
+        "images/portfolio/sars/s2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SASS"
+        }
+      ]
+    },
+    {
+      "title": "E-Commerce",
+      "startDate": "2020",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for an authenticated Log-in page and search filters using CSS3 and uiGradients. For storing data we used Redux and React Context.",
+      "images": [
+        "images/portfolio/e-commerce/e1.jpg","images/portfolio/e-commerce/e2.jpg"
+        
+      ],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Diestraβen",
+      "title": "Front-End-Intern",
+      "years": "08.2021 - 09.2021",
+      "class": "fab brands fa-react experience-icon",
+      "mainTech": [
+        "ReactJS",
+        "VueJS"
+      ],
+      "technologies": [
+        "REST APIs",
+        "Axios",
+        "ReactJS",
+        "React Modal",
+        "VueJS",
+        "JavaScript",
+        "CSS",
+        "SASS",
+        "Bootstrap",
+        "MaterialUI",
+        "ElementUI",
+        ".NET Core",
+        "C#"
+      ]
+    },
+    {
+      "company": "Damstores",
+      "title": "Front-End-Intern",
+      "years": "08.2020 - 12.2020",
+      "class": "fab brands fa-js experience-icon",
+      "mainTech": [
+        "JavaScript",
+        "CSS"
+      ],
+      "technologies": [
+        "HTML",
+        "CSS",
+        "ES6",
+        "JavaScript",
+        "ReactJS",
+        "Redux"
+      ]
+    }
+  ]
+}
