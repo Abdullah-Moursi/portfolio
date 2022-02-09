@@ -11,21 +11,54 @@
   },
   "projects": [
     {
-      "title": "Genome Analyzer",
-      "startDate": "2021",
-      "description": "Took a part at creating an app comparing DNA sequence provided by patients with the ones in the GenBank. Developed UI of Admin, Doctor, Nurse, and Patient pages using Vue.Js, Element-UI, and Bootstrap.",
+      "title": "Amazon Clone",
+      "startDate": "2022",
+      "website": "https://challenge-fe330.web.app/",
+      "description": "MERN-Stack AMAZON Clone consuming an API for the products using React JS in front-end, Firebase as a cloud function, Stripe for payment and MongoDB, Express and NodeJs in back-end.",
       "images": [
-        "images/portfolio/gene/g1.png",
-        "images/portfolio/gene/g2.png"
+        "images/portfolio/amazon/a1.jpg",
+        "images/portfolio/amazon/a2.png"
       ],
       "technologies": [
         {
-          "class": "devicon-bootstrap-plain",
-          "name": "Bootstrap"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         },
         {
-          "class": "devicon-vuejs-plain",
-          "name": "VueJS"
+          "class": "devicon-express-original",
+          "name": "Express"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJs"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "Medical Pager",
+      "startDate": "2022",
+      "website": "https://medical-pager-chatting-app.netlify.app/",
+      "description": "Chatting Application with Twilio notification service built with React and NodeJs with Direct and Group Chats, emojis & Reactions, Built-in Gif support and the ability to edit & delete messages supported by GetStream.io APIs.",
+      "images": [
+        "images/portfolio/medical/m1.png",
+        "images/portfolio/medical/m2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
         },
         {
           "class": "devicon-css3-plain",
@@ -58,22 +91,21 @@
       ]
     },
     {
-      "title": "Medical Pager",
-      "startDate": "2022",
-      "website": "https://medical-pager-chatting-app.netlify.app/",
-      "description": "Chatting Application with Twilio notification service built with React and NodeJs with Direct and Group Chats, emojis & Reactions, Built-in Gif support and the ability to edit & delete messages supported by GetStream.io APIs.",
+      "title": "Genome Analyzer",
+      "startDate": "2021",
+      "description": "Took a part at creating an app comparing DNA sequence provided by patients with the ones in the GenBank. Developed UI of Admin, Doctor, Nurse, and Patient pages using Vue.Js, Element-UI, and Bootstrap.",
       "images": [
-        "images/portfolio/medical/m1.png",
-        "images/portfolio/medical/m2.jpg"
+        "images/portfolio/gene/g1.png",
+        "images/portfolio/gene/g2.png"
       ],
       "technologies": [
         {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJS"
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
         },
         {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
         },
         {
           "class": "devicon-css3-plain",
@@ -109,8 +141,8 @@
       "startDate": "2020",
       "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for an authenticated Log-in page and search filters using CSS3 and uiGradients. For storing data we used Redux and React Context.",
       "images": [
-        "images/portfolio/e-commerce/e1.jpg","images/portfolio/e-commerce/e2.jpg"
-        
+        "images/portfolio/e-commerce/e1.jpg",
+        "images/portfolio/e-commerce/e2.jpg"
       ],
       "technologies": [
         {
