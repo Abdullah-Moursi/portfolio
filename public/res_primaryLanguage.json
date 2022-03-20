@@ -11,6 +11,30 @@
   },
   "projects": [
     {
+      "title": "Texas restaurant",
+      "startDate": "2022",
+      "website": "http://texas-chicken-snowy.vercel.app/",
+      "description": "Fried chicken restaurant website consuming APIs for making different routes through Params with justifiable ingredients and cart items using NextJS, Redux and CSS Modules.",
+      "images": [
+        "images/portfolio/texas/t1.jpg",
+        "images/portfolio/texas/t2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "Amazon Clone",
       "startDate": "2022",
       "website": "https://challenge-fe330.web.app/",
@@ -35,30 +59,6 @@
         {
           "class": "devicon-nodejs-plain",
           "name": "NodeJs"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        }
-      ]
-    },
-    {
-      "title": "Medical Pager",
-      "startDate": "2022",
-      "website": "https://medical-pager-chatting-app.netlify.app/",
-      "description": "Chatting Application with Twilio notification service built with React and NodeJs with Direct and Group Chats, emojis & Reactions, Built-in Gif support and the ability to edit & delete messages supported by GetStream.io APIs.",
-      "images": [
-        "images/portfolio/medical/m1.png",
-        "images/portfolio/medical/m2.jpg"
-      ],
-      "technologies": [
-        {
-          "class": "devicon-nodejs-plain",
-          "name": "NodeJS"
-        },
-        {
-          "class": "devicon-react-original",
-          "name": "React"
         },
         {
           "class": "devicon-css3-plain",
@@ -206,3 +206,4 @@
     }
   ]
 }
+
