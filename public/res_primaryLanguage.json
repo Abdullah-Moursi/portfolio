@@ -162,8 +162,30 @@
   ],
   "experience": [
     {
+      "company": "Sonamak",
+      "title": "Front End Web Developer",
+      "years": "01.2022 - 03.2022",
+      "class": "fab brands fa-js experience-icon",
+      "mainTech": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "technologies": [
+        "REST APIs",
+        "Axios",
+        "ReactJS",
+        "JavaScript",
+        "CSS",
+        "Bootstrap",
+        "MaterialUI",
+        "HTML",
+        "Wordpress"
+      ]
+    },
+    {
       "company": "Diestraβen",
-      "title": "Front-End-Intern",
+      "title": "Front End -Intern",
       "years": "08.2021 - 09.2021",
       "class": "fab brands fa-react experience-icon",
       "mainTech": [
@@ -188,7 +210,7 @@
     },
     {
       "company": "Damstores",
-      "title": "Front-End-Intern",
+      "title": "Front End -Intern",
       "years": "08.2020 - 12.2020",
       "class": "fab brands fa-js experience-icon",
       "mainTech": [
@@ -206,4 +228,3 @@
     }
   ]
 }
-
