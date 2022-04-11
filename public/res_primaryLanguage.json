@@ -11,6 +11,26 @@
   },
   "projects": [
     {
+      "title": "CMS Blog",
+      "startDate": "2022",
+      "website": "https://blog-posts-blue.vercel.app/",
+      "description": "Blog application with featured and recent posts, categories, full markdown articles, author information, and comments. Using React JS, NextJS, Tailwind CSS, GraphQL, and GraphCMS.",
+      "images": [
+        "images/portfolio/blog/b1.jpg",
+        "images/portfolio/blog/b2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "Texas restaurant",
       "startDate": "2022",
       "website": "http://texas-chicken-snowy.vercel.app/",
@@ -133,29 +153,6 @@
         {
           "class": "devicon-sass-original",
           "name": "SASS"
-        }
-      ]
-    },
-    {
-      "title": "E-Commerce",
-      "startDate": "2020",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for an authenticated Log-in page and search filters using CSS3 and uiGradients. For storing data we used Redux and React Context.",
-      "images": [
-        "images/portfolio/e-commerce/e1.jpg",
-        "images/portfolio/e-commerce/e2.jpg"
-      ],
-      "technologies": [
-        {
-          "class": "devicon-html5-plain",
-          "name": "HTML"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
         }
       ]
     }
