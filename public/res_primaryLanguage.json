@@ -11,6 +11,30 @@
   },
   "projects": [
     {
+      "title": "D3 data visualization",
+      "startDate": "2022",
+      "website": "https://d3-nine.vercel.app/",
+      "description": "Validated registration page, SASS modules and data visualization using D3js library.",
+      "images": [
+        "images/portfolio/d3/d1.png",
+        "images/portfolio/d3/d2.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "SASS"
+        },
+        {
+          "class": "devicon-d3js-plain",
+          "name": "D3JS"
+        }
+      ]
+    },
+    {
       "title": "CMS Blog",
       "startDate": "2022",
       "website": "https://blog-posts-blue.vercel.app/",
