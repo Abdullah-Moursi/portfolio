@@ -60,7 +60,7 @@ class Header extends Component {
                
               </h1>
               <div className="title-container">
-                <h2>JUNIOR FRONT-END WEB DEVELOPER</h2>
+                <h2>FRONT-END DEVELOPER</h2>
               </div>
               <Switch
                 checked={this.state.checked}

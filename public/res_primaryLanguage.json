@@ -183,9 +183,28 @@
   ],
   "experience": [
     {
+      "company": "Damen",
+      "title": "Front End Developer",
+      "years": "08.2022 - Present",
+      "class": "fab brands fa-react experience-icon",
+      "mainTech": [
+        "ReactJS",
+        "React Native",
+        "CSS"
+      ],
+      "technologies": [
+        "ReactJS",
+        "React Native",
+        "CSS",
+        "JavaScript",
+        "Redux",
+        "Redux Toolkit"
+      ]
+    },
+    {
       "company": "Sonamak",
       "title": "Front End Web Developer",
-      "years": "01.2022 - now",
+      "years": "01.2022 - 07.2022",
       "class": "fab brands fa-js experience-icon",
       "mainTech": [
         "JavaScript",
@@ -227,24 +246,6 @@
         "ElementUI",
         ".NET Core",
         "C#"
-      ]
-    },
-    {
-      "company": "Damstores",
-      "title": "Front End -Intern",
-      "years": "08.2020 - 12.2020",
-      "class": "fab brands fa-js experience-icon",
-      "mainTech": [
-        "JavaScript",
-        "CSS"
-      ],
-      "technologies": [
-        "HTML",
-        "CSS",
-        "ES6",
-        "JavaScript",
-        "ReactJS",
-        "Redux"
       ]
     }
   ]

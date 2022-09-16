@@ -2,7 +2,7 @@
   "basic_info": {
     "name": "Abdullah Moursi",
     "titles": [
-      "JUNIOR FRONT-END WEB DEVELOPER"
+      "FRONT-END DEVELOPER"
     ],
     "social": [
       {
@@ -42,6 +42,21 @@
       {
         "name": "React",
         "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "React Native",
+        "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "80"
+      },
+      {
+        "name": "Redux Toolkit",
+        "class": "devicon-redux-original",
         "level": "80"
       },
       {
