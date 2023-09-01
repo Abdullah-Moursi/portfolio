@@ -183,7 +183,26 @@
   ],
   "experience": [
     {
-      "company": "Damen",
+      "company": "Cogworks",
+      "title": "Front End Developer",
+      "years": "09.2023 - Present",
+      "class": "fab brands fa-js experience-icon",
+      "mainTech": [
+        "JavaScript",
+        "ReactJS",
+        "CSS"
+      ],
+      "technologies": [
+        "ReactJS",
+        "VueJS",
+        "CSS",
+        "JavaScript",
+        "VueX",
+        "Redux"
+      ]
+    },
+    {
+      "company": "Damen for ePayment",
       "title": "Front End Developer",
       "years": "08.2022 - Present",
       "class": "fab brands fa-react experience-icon",
