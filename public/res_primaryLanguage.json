@@ -11,6 +11,94 @@
   },
   "projects": [
     {
+      "title": "Russell Cooke",
+      "startDate": "2023",
+      "website": "https://www.russell-cooke.co.uk/",
+      "description": "UK top-100 London-based law firm. Using VueJs, Vanilla JS, HTML, and Tailwind CSS.",
+      "images": [
+        "images/portfolio/Russell-Cooke/rc1.jpg",
+        "images/portfolio/Russell-Cooke/rc2.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Vanilla JS"
+        }
+      ]
+    },
+    {
+      "title": "Prostate Cancer UK",
+      "startDate": "2023",
+      "website": "https://prostatecanceruk.org/",
+      "description": "Uk health foundation. Using VueJs, Vanilla JS, HTML, Tailwind CSS and Bootstrap",
+      "images": [
+        "images/portfolio/pcuk/pc1.png",
+        "images/portfolio/pcuk/pc2.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Vanilla JS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Raised",
+      "startDate": "2023",
+      "website": "https://raiseduk.com/",
+      "description": "Uk crowdfunding platform. Using VueJs, Vanilla JS, HTML, and Tailwind CSS",
+      "images": [
+        "images/portfolio/raised/r1.jpg",
+        "images/portfolio/raised/r2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Vanilla JS"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "D3 data visualization",
       "startDate": "2022",
       "website": "https://d3-nine.vercel.app/",
