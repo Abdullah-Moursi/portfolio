@@ -32,15 +32,6 @@ class Header extends Component {
         .flat();
     }
 
-    const HeaderTitleTypeAnimation = React.memo(
-      () => {
-        return (
-          <Typical className="title-styles" steps={this.titles} loop={50} />
-        );
-      },
-      (props, prevProp) => true
-    );
-
     return (
       <header
         id="home"
