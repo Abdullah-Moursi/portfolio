@@ -277,16 +277,16 @@
       "class": "fab brands fa-js experience-icon",
       "mainTech": [
         "JavaScript",
-        "ReactJS",
+        "VueJS",
         "CSS"
       ],
       "technologies": [
-        "ReactJS",
         "VueJS",
+        "ReactJS",
         "CSS",
         "JavaScript",
-        "VueX",
-        "Redux"
+        "HTML",
+        "Angular"
       ]
     },
     {
