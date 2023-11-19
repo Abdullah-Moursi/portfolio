@@ -70,6 +70,11 @@
         "level": "95"
       },
       {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
+        "level": "95"
+      },
+      {
         "name": "Sass",
         "class": "devicon-sass-original",
         "level": "75"
