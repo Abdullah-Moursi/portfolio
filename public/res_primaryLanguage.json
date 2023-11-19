@@ -42,7 +42,7 @@
       "title": "Prostate Cancer UK",
       "startDate": "2023",
       "website": "https://prostatecanceruk.org/",
-      "description": "Uk health foundation. Using VueJs, Vanilla JS, HTML, Tailwind CSS and Bootstrap",
+      "description": "Uk health foundation. Using VueJs, Vanilla JS, HTML, SASS, and Bootstrap",
       "images": [
         "images/portfolio/pcuk/pc1.png",
         "images/portfolio/pcuk/pc2.png"
