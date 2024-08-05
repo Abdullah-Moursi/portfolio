@@ -1,9 +1,7 @@
 {
   "basic_info": {
     "name": "Abdullah Moursi",
-    "titles": [
-      "FRONT-END DEVELOPER"
-    ],
+    "titles": ["FRONT-END DEVELOPER"],
     "social": [
       {
         "name": "github",
@@ -74,9 +72,15 @@
         "class": "devicon-tailwindcss-plain",
         "level": "95"
       },
+
       {
         "name": "Sass",
         "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Storybook",
+        "class": "devicon-storybook-plain",
         "level": "75"
       },
       {

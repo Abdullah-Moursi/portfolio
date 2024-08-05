@@ -11,6 +11,26 @@
   },
   "projects": [
     {
+      "title": "Cogworks",
+      "startDate": "2024",
+      "website": "https://www.wearecogworks.com/",
+      "description": "Landing page for the company website. Using NextJS, TypeScript, Storybook, and Tailwind CSS.",
+      "images": [
+        "images/portfolio/cogworks/cw1.jpg",
+        "images/portfolio/cogworks/cw2.png"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "Russell Cooke",
       "startDate": "2023",
       "website": "https://www.russell-cooke.co.uk/",
@@ -103,10 +123,7 @@
       "startDate": "2022",
       "website": "https://d3-nine.vercel.app/",
       "description": "Validated registration page, SASS modules and data visualization using D3js library.",
-      "images": [
-        "images/portfolio/d3/d1.png",
-        "images/portfolio/d3/d2.png"
-      ],
+      "images": ["images/portfolio/d3/d1.png", "images/portfolio/d3/d2.png"],
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -275,11 +292,7 @@
       "title": "Front End Developer",
       "years": "08.2023 - Present",
       "class": "fab brands fa-js experience-icon",
-      "mainTech": [
-        "JavaScript",
-        "VueJS",
-        "CSS"
-      ],
+      "mainTech": ["JavaScript", "VueJS", "CSS"],
       "technologies": [
         "VueJS",
         "ReactJS",
@@ -294,11 +307,7 @@
       "title": "Front End Developer",
       "years": "08.2022 - 07.2023",
       "class": "fab brands fa-react experience-icon",
-      "mainTech": [
-        "ReactJS",
-        "React Native",
-        "CSS"
-      ],
+      "mainTech": ["ReactJS", "React Native", "CSS"],
       "technologies": [
         "ReactJS",
         "React Native",
@@ -314,11 +323,7 @@
       "title": "Front End Web Developer",
       "years": "01.2022 - 07.2022",
       "class": "fab brands fa-js experience-icon",
-      "mainTech": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
+      "mainTech": ["JavaScript", "HTML", "CSS"],
       "technologies": [
         "REST APIs",
         "Axios",
@@ -336,10 +341,7 @@
       "title": "Front End -Intern",
       "years": "08.2021 - 09.2021",
       "class": "fab brands fa-react experience-icon",
-      "mainTech": [
-        "ReactJS",
-        "VueJS"
-      ],
+      "mainTech": ["ReactJS", "VueJS"],
       "technologies": [
         "REST APIs",
         "Axios",
