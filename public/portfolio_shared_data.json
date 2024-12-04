@@ -23,11 +23,6 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
-      },
-      {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
         "level": "70"
@@ -38,13 +33,23 @@
         "level": "90"
       },
       {
-        "name": "React",
+        "name": "ReactJs",
         "class": "devicon-react-plain",
         "level": "80"
       },
       {
         "name": "React Native",
         "class": "devicon-react-original",
+        "level": "80"
+      },
+      {
+        "name": "NextJs",
+        "class": "devicon-nextjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "Formik",
+        "class": "devicon-fortran-original",
         "level": "80"
       },
       {
@@ -58,9 +63,44 @@
         "level": "80"
       },
       {
+        "name": "Redux-Saga",
+        "class": "devicon-redux-original",
+        "level": "80"
+      },
+      {
         "name": "VueJS",
         "class": "devicon-vuejs-plain",
         "level": "65"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "65"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "GraphQL",
+        "class": "devicon-graphql-plain",
+        "level": "75"
+      },
+      {
+        "name": "Wordpress",
+        "class": "devicon-wordpress-plain",
+        "level": "95"
+      },
+      {
+        "name": "Github",
+        "class": "devicon-git-plain",
+        "level": "80"
+      },
+      {
+        "name": "Storybook",
+        "class": "devicon-storybook-plain",
+        "level": "75"
       },
       {
         "name": "CSS 3",
@@ -68,7 +108,7 @@
         "level": "95"
       },
       {
-        "name": "Tailwind",
+        "name": "Tailwind CSS",
         "class": "devicon-tailwindcss-plain",
         "level": "95"
       },
@@ -79,19 +119,24 @@
         "level": "75"
       },
       {
-        "name": "Storybook",
-        "class": "devicon-storybook-plain",
-        "level": "75"
-      },
-      {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
       },
       {
-        "name": "Github",
-        "class": "devicon-git-plain",
-        "level": "80"
+        "name": "MUI",
+        "class": "devicon-materialui-plain",
+        "level": "85"
+      },
+      {
+        "name": "D3",
+        "class": "devicon-d3js-plain",
+        "level": "65"
+      },
+      {
+        "name": "Visx",
+        "class": "devicon-tailwindcss-plain",
+        "level": "65"
       }
     ]
   }

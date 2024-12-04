@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Abdullah Moursi. A Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience in handling complex HTML, CSS, and JS (Vanilla and React), NextJs, and a bit of VueJS to meet the organization's front-facing internet needs. Thank you.",
+    "description": "👋 I'm Abdullah Moursi. A Resourceful Front End Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience in handling complex HTML, CSS, and JS, ReactJs, React Native, NextJs, and a bit of VueJS to meet the organization's front-facing internet needs. Thank you.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -10,6 +10,50 @@
     }
   },
   "projects": [
+    {
+      "title": "Shell",
+      "startDate": "2024",
+      "website": "https://www.shell.com/",
+      "description": "Developed a robust tracking system for Shell oil bottles enabling real-time inventory management. Using ReactJS, MUI, Formik, and Redux.",
+      "images": [
+        "images/portfolio/shell/s1.jpg",
+        "images/portfolio/shell/s2.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MUI"
+        }
+      ]
+    },
+    {
+      "title": "UBUX",
+      "startDate": "2024",
+      "description": "Developed multiple screens for an Android app enabling users to find stores, order, and pay seamlessly. Using React Native, Redux-Saga and CSS.",
+      "images": ["images/portfolio/ubux/u1.png"],
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-redux-original",
+          "name": "Redux-Saga"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
     {
       "title": "Cogworks",
       "startDate": "2024",
@@ -288,16 +332,34 @@
   ],
   "experience": [
     {
+      "company": "Origin Technologies",
+      "title": "Front End Developer",
+      "years": "04.2024 - Present",
+      "class": "fab brands fa-react experience-icon",
+      "mainTech": ["ReactJS", "Redux", "Formik"],
+      "technologies": ["ReactJS", "Redux", "Formik", "MUI", "Visx"]
+    },
+    {
+      "company": "UBUX",
+      "title": "Front End Developer",
+      "years": "04.2024 - Present",
+      "class": "fab brands fa-react experience-icon",
+      "mainTech": ["React Native", "Redux-Saga"],
+      "technologies": ["React Native", "Redux-Saga", "CSS"]
+    },
+    {
       "company": "Cogworks",
       "title": "Front End Developer",
-      "years": "08.2023 - Present",
+      "years": "08.2023 - 03.2024",
       "class": "fab brands fa-js experience-icon",
-      "mainTech": ["JavaScript", "VueJS", "CSS"],
+      "mainTech": ["JavaScript", "VueJS", "NextJs", "Tailwind CSS"],
       "technologies": [
-        "VueJS",
         "ReactJS",
+        "NextJs",
+        "VueJS",
         "CSS",
         "JavaScript",
+        "Storybook",
         "HTML",
         "Angular"
       ]
