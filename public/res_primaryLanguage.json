@@ -353,9 +353,23 @@
   ],
   "experience": [
     {
+      "company": "Caelum Group GmbH",
+      "title": "Front End Developer",
+      "years": "03.2025 - Present",
+      "class": "fab brands fa-react experience-icon",
+      "mainTech": ["NextJS", "Ant Design", "SquareSpace"],
+      "technologies": [
+        "NextJS",
+        "ReactJS",
+        "Redux",
+        "SquareSpace",
+        "Ant Design"
+      ]
+    },
+    {
       "company": "Origin Technologies",
       "title": "Front End Developer",
-      "years": "04.2024 - Present",
+      "years": "03.2024 - 02.2024",
       "class": "fab brands fa-react experience-icon",
       "mainTech": ["ReactJS", "Redux", "Formik"],
       "technologies": ["ReactJS", "Redux", "Formik", "MUI", "Visx"]
@@ -371,7 +385,7 @@
     {
       "company": "Cogworks",
       "title": "Front End Developer",
-      "years": "08.2023 - 03.2024",
+      "years": "08.2023 - 02.2024",
       "class": "fab brands fa-js experience-icon",
       "mainTech": ["JavaScript", "VueJS", "NextJs", "Tailwind CSS"],
       "technologies": [

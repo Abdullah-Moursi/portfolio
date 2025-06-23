@@ -137,6 +137,16 @@
         "name": "Visx",
         "class": "devicon-tailwindcss-plain",
         "level": "65"
+      },
+      {
+        "name": "SquareSpace",
+        "class": "devicon-tailwindcss-plain",
+        "level": "95"
+      },
+      {
+        "name": "Ant Design",
+        "class": "devicon-tailwindcss-plain",
+        "level": "85"
       }
     ]
   }
