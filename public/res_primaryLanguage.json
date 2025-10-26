@@ -11,6 +11,26 @@
   },
   "projects": [
     {
+      "title": "Everyone Has a Story",
+      "startDate": "2025",
+      "website": "https://www.everyone-has-a-story.org/",
+      "description": "Developed a website for a non-profit organization providing support to individuals and families having PTSD. Customized Squarespace template with custom CSS styling",
+      "images": [
+        "images/portfolio/ehs/ehs1.webp",
+        "images/portfolio/ehs/ehs2.webp"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-squarespace-plain",
+          "name": "Squarespace"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
       "title": "Dextab",
       "startDate": "2025",
       "website": "https://www.dextab.io/",
